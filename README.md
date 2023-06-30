@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @handowl
-- 👀 I love programming
+👋 Hi, I’m @handowl
+👀 I love programming
