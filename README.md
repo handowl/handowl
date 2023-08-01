@@ -1,2 +1,4 @@
 # About me:
-<img src="https://avatars.githubusercontent.com/u/50278?s=16" DreamBerd Middle Developer>
+<div>
+  <img src="https://avatars.githubusercontent.com/u/50278?s=16"> <span>DreamBerd Middle Developer</span>
+</div>
